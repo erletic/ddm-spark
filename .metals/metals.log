@@ -1,0 +1,636 @@
+2025.02.08 11:29:46 INFO  Started: Metals version 1.5.1 in folders '/Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main' for client Visual Studio Code 1.97.0.[0m
+Feb. 08, 2025 11:29:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:29:59 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:30:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6
+2025.02.08 11:30:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:30:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 16
+Feb. 08, 2025 11:30:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 13
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:30:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 17
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:30:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 19
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:07 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:30:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:10 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:30:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:14 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:30:14 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:30:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:30:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:30:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:30:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:30:50 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:30:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:31:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:31:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:13 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:13 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:14 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:14 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:14 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:17 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:17 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:18 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:18 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:18 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:24 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:24 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:31:27 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:31:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:32:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:37:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:37:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:37:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:38:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:39:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:39:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:39:14 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:39:18 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:39:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:39:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:40:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:40:19 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:19 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:20 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:40:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:20 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:40:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:25 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:40:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:29 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:29 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:29 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:30 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:40:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:33 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:33 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:35 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:35 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:35 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:35 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:35 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:36 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:36 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:36 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:36 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:37 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:40:37 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:37 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:37 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:37 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:37 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:38 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:38 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:38 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:38 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:39 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:39 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:39 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:39 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:40 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:40 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:40 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:40 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:40 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:41 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:41 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:43 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:43 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:43 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:43 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:44 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:43 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:43 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:44 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:40:44 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:44 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:47 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:47 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:48 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:40:48 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+2025.02.08 11:40:49 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:40:50 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+2025.02.08 11:40:50 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:51 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:51 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:51 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:51 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:40:51 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:52 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:40:53 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:41:07 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+Feb. 08, 2025 11:41:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:41:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:41:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:41:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:41:55 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:55 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:57 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:57 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:58 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:58 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:41:58 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:00 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:00 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:00 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:00 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:00 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:00 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:01 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:42:00 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:03 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:03 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:03 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:03 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:03 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:04 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 11:42:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:42:04 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:42:04 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+Feb. 08, 2025 11:42:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:42:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:43:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:43:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:43:47 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:44:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:44:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:44:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:44:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:44:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:44:11 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:44:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:44:12 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+Feb. 08, 2025 11:45:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:45:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:48:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:48:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:48:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:49:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:49:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:49:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:49:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:50:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:50:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:50:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:50:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:51:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:52:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:52:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:52:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:53:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:53:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:54:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:55:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:55:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:55:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:55:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:55:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:55:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:56:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:56:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:07 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:11 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:14 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:14 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:14 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:56:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:56:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:56:56 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:56:56 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:56:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:57:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:57:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:57:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:58:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:58:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:58:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:58:47 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:47 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:47 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:47 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:48 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:48 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:48 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala[0m
+2025.02.08 11:58:48 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:48 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:48 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:51 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:51 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:52 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:52 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala[0m
+2025.02.08 11:58:52 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:54 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:54 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:58:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+2025.02.08 11:58:54 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala[0m
+2025.02.08 11:58:54 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:54 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:57 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/DDMSpark.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:57 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/DDMSpark.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:57 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/DDMSpark.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:59 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:59 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:59 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:59 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:59 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:58:59 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:59:01 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+Feb. 08, 2025 11:59:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:59:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 11:59:21 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:23 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala[0m
+2025.02.08 11:59:23 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:25 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:27 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/DDMSpark.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:27 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:27 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:27 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:27 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:27 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 11:59:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 11:59:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:59:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 11:59:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:00:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:00:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:00:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:00:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 12:00:58 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:00:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 12:00:58 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:00 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:02 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 12:01:03 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:03 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:01:09 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+2025.02.08 12:01:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:08 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:09 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:10 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 12:01:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:10 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:12 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:13 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:13 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:15 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:15 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:16 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:17 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:17 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:18 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:18 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 12:01:18 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:18 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:22 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 12:01:23 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:23 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:26 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:28 WARN  Could not find semantic tokens for: file:///Volumes/T7%20Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 12:01:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:28 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:29 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 12:01:29 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:29 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:01:30 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+2025.02.08 12:01:30 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 12:01:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:31 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:31 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:34 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:34 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:35 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:35 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:01:39 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:01:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:01:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:01:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:02:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:06:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:06:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 12:06:34 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:06:34 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:06:34 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:06:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:07:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:08:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:08:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 12:08:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:30 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:31 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:08:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:08:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 12:08:36 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:39 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:39 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:39 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:46 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:46 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:46 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:46 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:48 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:48 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:08:48 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SCHWERWIEGEND: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/.metals/.reports/metals-full/2025-02-08/r_empty-definition_11-40-48-891.md)
+2025.02.08 12:08:48 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:49 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:49 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:49 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:50 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:50 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:50 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:50 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:53 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 12:08:53 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:55 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:56 WARN  no build target for: /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala[0m
+2025.02.08 12:08:56 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:56 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:56 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:56 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:56 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:57 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:08:57 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:09:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:10:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:10:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:10:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:13:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 12:13:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:13:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:13:20 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:13:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 12:13:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:13:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:13:22 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 08, 2025 12:13:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 08, 2025 12:13:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.08 12:13:54 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:13:57 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:13:57 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:14:00 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:14:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:14:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:14:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:14:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:14:01 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/LongestCommonSubstring.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.08 12:14:04 INFO  Shutting down server[0m
+2025.02.08 12:14:04 INFO  shutting down Metals[0m
+2025.02.08 12:14:04 INFO  Exiting server[0m
+2025.02.09 23:13:00 INFO  Started: Metals version 1.5.1 in folders '/Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main' for client Visual Studio Code 1.97.0.[0m
+Feb. 09, 2025 11:13:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+2025.02.09 23:13:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.09 23:13:02 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 09, 2025 11:13:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2
+Feb. 09, 2025 11:13:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 09, 2025 11:14:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 09, 2025 11:16:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 09, 2025 11:16:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 23:16:15 INFO  no build target found for /Volumes/T7 Shield/Code/ddm-scala/ddm-spark-DataMunchers-main/src/main/scala/de/ddm/Sindy.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb. 09, 2025 11:16:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 09, 2025 11:17:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 10, 2025 9:08:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 10, 2025 9:08:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 10, 2025 9:08:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 10, 2025 9:09:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 10, 2025 9:10:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 10, 2025 9:10:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 10, 2025 9:11:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+Feb. 10, 2025 9:11:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNUNG: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 09:11:39 INFO  Shutting down server[0m
+2025.02.10 09:11:39 INFO  shutting down Metals[0m
+2025.02.10 09:11:39 INFO  Exiting server[0m
